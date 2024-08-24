@@ -55,8 +55,6 @@ minimum_guesses = data.generate_minimum_guess()
 
 number_to_guess = data.number_to_guess()
 
-print(number_to_guess)
-
 play_game(number_to_guess, minimum_guesses)
 
 
